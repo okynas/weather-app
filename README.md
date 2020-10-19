@@ -28,27 +28,16 @@
 
 ---
 
-- [Features](#features)
 - [Built with](#built-with)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Release](#release)
-<!-- - [Timestamp](#timestamp)
-Why did you undertake the project?
-Lessons learned
-Wish list
--->
 - [Credits](#credits)
 - [License]("license)
 
 ---
 
 </details>
-
-## **Features**
-
-**Theming:** 
-- Choose theme: Light ☀️ (Default) and Dark 🌑
 
 ## **Built with**
 
@@ -67,6 +56,18 @@ git clone https://github.com/okynas/weather-app.git
 
 ## **Usage**
 
+To use the project, you have to use nodejs or serve the files as static files.
+
+```sh
+npm run serve
+```
+
+or 
+```sh
+npm run build
+```
+
+And then you can open the html file in public or serve the files as static at a hostingprovider.
 
 
 ## **Release**
@@ -75,6 +76,8 @@ git clone https://github.com/okynas/weather-app.git
     * CHANGE: Finishing touches to change repository from private to public
 
 ## **Credits**
+
+[WEATHER-VUEJS-YOUTUBE](https://www.youtube.com/watch?v=JLc-hWsPTUY)
 
 
 ## **License**
