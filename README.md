@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://https://github.com/okynas/">
-     <img src="https://github.com/okynas/weather-app/blob/main/images/overview.png" alt="Screenshot1" width="100%">
+     <img src="https://github.com/okynas/weather-app/blob/master/images/overview.png" alt="OVERVIEW" width="100%">
    </a>
 </div>
 
