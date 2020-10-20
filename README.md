@@ -17,11 +17,11 @@
   </p>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://https://github.com/okynas/">
-     <img src="https://github.com/okynas/weather-app/blob/main/images/Todo-app.png" alt="Screenshot1" width="100%">
+     <img src="https://github.com/okynas/weather-app/blob/main/images/overview.png" alt="Screenshot1" width="100%">
    </a>
-</div> -->
+</div>
 
 <details>
   <summary>Table of contents</summary>
@@ -32,7 +32,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Release](#release)
-- [Credits](#credits)
 - [License]("license)
 
 ---
@@ -74,11 +73,6 @@ And then you can open the html file in public or serve the files as static at a 
 
 * 1.0.0
     * CHANGE: Finishing touches to change repository from private to public
-
-## **Credits**
-
-[WEATHER-VUEJS-YOUTUBE](https://www.youtube.com/watch?v=JLc-hWsPTUY)
-
 
 ## **License**
 
